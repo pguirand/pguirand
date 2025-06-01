@@ -38,8 +38,8 @@ Beyond coding, I am passionate about **mentoring and leadership**, helping teams
 
 ### :link: Let's Connect!
 
-- :email: Email: ricardinpierre@gmail.com
-- :telephone_receiver: (210) 759-8999
+- :email: Email: pierre.guirand25e@gmail.com
+- :telephone_receiver: (786) 216-6584
 
 Feel free to reach out, collaborate, or just say hi! :raising_hand_man:
 

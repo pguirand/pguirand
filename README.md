@@ -38,7 +38,7 @@ Beyond coding, I am passionate about **mentoring and leadership**, helping teams
 
 ### :link: Let's Connect!
 
-- :email: Email: pierre.guirand25e@gmail.com
+- :email: Email: pierre.guirand25@gmail.com
 - :telephone_receiver: (786) 216-6584
 
 Feel free to reach out, collaborate, or just say hi! :raising_hand_man:

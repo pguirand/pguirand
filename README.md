@@ -12,7 +12,7 @@ My expertise spans **Kotlin, Jetpack Compose, coroutines, CI/CD, MVVM, dependenc
 
 #### Notable Experience & Projects
 - **Aviation (American Airlines):** Leading Android development efforts to modernize the user experience, transitioning legacy codebases to **Jetpack Compose**, improving **booking search widgets**, and enhancing overall app performance for business and loyalty travelers.
-- **Energy (DTE Energy):** Built advanced energy management applications with **Jetpack Compose, Kotlin, and RoomDB**, optimizing UI responsiveness and implementing **real-time data synchronization**.
+
 
 
 Beyond coding, I am passionate about **mentoring and leadership**, helping teams adopt **best practices in Android development, Agile methodologies, and CI/CD pipelines**. I strive to **bridge the gap between business and technology**, ensuring that mobile solutions align with strategic goals and deliver exceptional user experiences. I also love chess, appreciating its strategic depth and problem-solving challenges. :chess_pawn:

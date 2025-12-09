@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on modern 
 
 ### :bust_in_silhouette: About Me
 
-I am a **Lead Android Developer at American Airlines** with over **7 years of experience in Android development** and nearly **15 years in software development**. Throughout my career, I have built and optimized mobile applications across multiple industries, including **aviation, automotive, finance, and energy**. My work has contributed to high-profile applications that have been widely used by millions of users globally.
+I am a **Lead Android Developer at American Airlines** with over **4 years of experience in Android development** and nearly **5 years in software development**. Throughout my career, I have built and optimized mobile applications across multiple industries, including **aviation, retail and finance**. My work has contributed to high-profile applications that have been widely used by millions of users globally.
 
 My expertise spans **Kotlin, Jetpack Compose, coroutines, CI/CD, MVVM, dependency injection (DI), performance optimization, and large-scale application design**. I have a deep understanding of **NFC, BLE, 5G optimizations, and cloud integrations**, enabling me to build efficient, secure, and future-proof mobile solutions. I am also well-versed in **multithreading, reactive programming, and native Android development**, ensuring smooth, high-performance applications.
 

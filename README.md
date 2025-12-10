@@ -1,14 +1,26 @@
 ### Hi there, I'm Pierre! :wave:
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on modern technologies, clean code, and building scalable solutions. :rocket:
+I'm an Android Developer focused on building high-quality, scalable mobile applications using modern Android technologies. I enjoy writing clean, maintainable code and solving real-world problems through thoughtful engineering.
 
 ---
 
 ### :bust_in_silhouette: About Me
 
-I am a **Lead Android Developer at American Airlines** with over **4 years of experience in Android development** and nearly **5 years in software development**. Throughout my career, I have built and optimized mobile applications across multiple industries, including **aviation, retail and finance**. My work has contributed to high-profile applications that have been widely used by millions of users globally.
+I have 4+ years of experience in Android development, working across aviation, retail, and finance. My work has helped deliver reliable, user-friendly features for applications used by millions of users.
 
-My expertise spans **Kotlin, Jetpack Compose, coroutines, CI/CD, MVVM, dependency injection (DI), performance optimization, and large-scale application design**. I have a deep understanding of **NFC, BLE, 5G optimizations, and cloud integrations**, enabling me to build efficient, secure, and future-proof mobile solutions. I am also well-versed in **multithreading, reactive programming, and native Android development**, ensuring smooth, high-performance applications.
+My expertise includes:
+
+Kotlin • Jetpack Compose • Coroutines • Flow
+
+MVVM • Clean Architecture • Dependency Injection (Hilt / Dagger)
+
+Performance optimization & offline-first architecture
+
+Testing: Unit tests, UI tests, mocking frameworks
+
+CI/CD workflows and modern Android tooling
+
+I enjoy turning complex requirements into simple, elegant solutions. I also love mentoring, sharing knowledge, and improving engineering processes within teams.
 
 #### Notable Experience & Projects
 - **Aviation (American Airlines):** Leading Android development efforts to modernize the user experience, transitioning legacy codebases to **Jetpack Compose**, improving **booking search widgets**, and enhancing overall app performance for business and loyalty travelers.
@@ -21,10 +33,27 @@ Beyond coding, I am passionate about **mentoring and leadership**, helping teams
 
 ### ️🛠️ Tech Stack
 
-- **Languages:** Java, Kotlin, JavaScript, Python
-- **Frameworks & Tools:** Spring Boot, React, Node.js, Android Development
-- **Databases:** PostgreSQL, Firebase, MongoDB
-- **DevOps:** Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
+Android
+
+Kotlin, Jetpack Compose, Coroutines / Flow
+
+MVVM (ViewModel, LiveData), Navigation Component
+
+Room, Retrofit / OkHttp
+
+Hilt, Dagger
+
+Unit & UI Testing: JUnit, Espresso, Compose Testing
+
+General
+
+Git, GitHub Actions
+
+Firebase: Auth, Firestore, Crashlytics
+
+REST APIs
+
+Agile Development
 
 ---
 
